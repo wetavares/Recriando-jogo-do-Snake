@@ -1,6 +1,6 @@
-# Html5Css - Projeo Tela do Instagram
+# Bootcamp HTML Web Developer - Projeo Recriar jogo da Snake
 Projeto do bootcamp HTML Web Developer feito na Digital Inovation One em 04/2021,
-onde foi recriado o jogo da Snake.
+onde o objetivo é recriado o jogo da Snake.
 
 :dart: Objetivos da aula:
 
